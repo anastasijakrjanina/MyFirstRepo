@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\bin\Debug\net6.0\ClassObject3.exe
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\bin\Debug\net6.0\ClassObject3.deps.json
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\bin\Debug\net6.0\ClassObject3.runtimeconfig.json
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\bin\Debug\net6.0\ClassObject3.dll
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\bin\Debug\net6.0\ClassObject3.pdb
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.AssemblyInfo.cs
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.dll
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\refint\ClassObject3.dll
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.pdb
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ClassObject3.genruntimeconfig.cache
+C:\AnastasijaLUKursi\ClassObject3\ClassObject3\obj\Debug\net6.0\ref\ClassObject3.dll

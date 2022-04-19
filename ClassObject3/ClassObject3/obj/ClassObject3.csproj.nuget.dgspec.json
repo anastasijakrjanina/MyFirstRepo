@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AnastasijaLUKursi\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\AnastasijaLUKursi\\ClassObject3\\ClassObject3\\ClassObject3.csproj": {}
   },
   "projects": {
-    "C:\\AnastasijaLUKursi\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\AnastasijaLUKursi\\ClassObject3\\ClassObject3\\ClassObject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AnastasijaLUKursi\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "C:\\AnastasijaLUKursi\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\AnastasijaLUKursi\\ClassObject3\\ClassObject3\\ClassObject3.csproj",
+        "projectName": "ClassObject3",
+        "projectPath": "C:\\AnastasijaLUKursi\\ClassObject3\\ClassObject3\\ClassObject3.csproj",
         "packagesPath": "C:\\Users\\krjaf\\.nuget\\packages\\",
-        "outputPath": "C:\\AnastasijaLUKursi\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\AnastasijaLUKursi\\ClassObject3\\ClassObject3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krjaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
