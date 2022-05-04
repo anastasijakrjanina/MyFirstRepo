@@ -1,0 +1,12 @@
+/// <summary>
+        /// 1. Ir set var uzstādīt visi visur
+        /// 2. private set var uzstādīt tikai klases iekšienē jebkurā brīdi
+        /// 3. Nav set vispār tad var uzstādīt tikai konstruktorā
+        /// </summary>
+
+
+string format = "dd.mm.yyyy";
+Console.Write("Enter date of Birth in format DD.MM.YYYY: ");
+DateTime birthDate = DateTime.ParseExact(Console.ReadLine(), format, CultureInfo.InvariantCulture);
+
+

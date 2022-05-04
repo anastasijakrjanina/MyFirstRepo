@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.AssemblyInfo.cs
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\bin\Debug\net6.0\CiklsMassives.exe
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\bin\Debug\net6.0\CiklsMassives.deps.json
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\bin\Debug\net6.0\CiklsMassives.runtimeconfig.json
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\bin\Debug\net6.0\CiklsMassives.dll
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\bin\Debug\net6.0\CiklsMassives.pdb
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.dll
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\refint\CiklsMassives.dll
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.pdb
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\CiklsMassives.genruntimeconfig.cache
+C:\AnastasijaLUKursi\Lesson5\CiklsMassives\obj\Debug\net6.0\ref\CiklsMassives.dll
