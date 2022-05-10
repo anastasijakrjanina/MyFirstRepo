@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\bin\Debug\net6.0\ListsDictionaries.exe
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\bin\Debug\net6.0\ListsDictionaries.deps.json
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\bin\Debug\net6.0\ListsDictionaries.runtimeconfig.json
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\bin\Debug\net6.0\ListsDictionaries.dll
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\bin\Debug\net6.0\ListsDictionaries.pdb
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.AssemblyInfo.cs
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.dll
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\refint\ListsDictionaries.dll
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.pdb
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ListsDictionaries.genruntimeconfig.cache
+C:\AnastasijaLUKursi\Lesson6\ListsDictionaries\obj\Debug\net6.0\ref\ListsDictionaries.dll
