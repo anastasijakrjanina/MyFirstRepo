@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\bin\Debug\net6.0\ScopesLesson.exe
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\bin\Debug\net6.0\ScopesLesson.deps.json
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\bin\Debug\net6.0\ScopesLesson.runtimeconfig.json
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\bin\Debug\net6.0\ScopesLesson.dll
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\bin\Debug\net6.0\ScopesLesson.pdb
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.AssemblyInfo.cs
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.dll
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\refint\ScopesLesson.dll
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.pdb
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ScopesLesson.genruntimeconfig.cache
+C:\AnastasijaLUKursi\ScopeLesson7\ScopesLesson\obj\Debug\net6.0\ref\ScopesLesson.dll
