@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\bin\Debug\net6.0\EnumsAndInterfaces.exe
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\bin\Debug\net6.0\EnumsAndInterfaces.deps.json
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\bin\Debug\net6.0\EnumsAndInterfaces.runtimeconfig.json
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\bin\Debug\net6.0\EnumsAndInterfaces.dll
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\bin\Debug\net6.0\EnumsAndInterfaces.pdb
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.AssemblyInfo.cs
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.dll
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\refint\EnumsAndInterfaces.dll
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.pdb
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\EnumsAndInterfaces.genruntimeconfig.cache
+C:\AnastasijaLUKursi\EnumsAndInterfaces\EnumsAndInterfaces\obj\Debug\net6.0\ref\EnumsAndInterfaces.dll
